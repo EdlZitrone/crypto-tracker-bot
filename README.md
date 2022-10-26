@@ -20,7 +20,8 @@ Features:
 ```
  See current price and 24hrs price change.
  Easily change selected currency with command.
- matching name and pfp to currency
+ Matching name and pfp to currency.
+ Updating information every 2 minutes.
 ```
 
 Preview:
