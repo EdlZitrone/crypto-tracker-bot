@@ -26,9 +26,7 @@ Features:
 Preview:
 
 ![ss](https://i.imgur.com/xGz8L2A.jpg)
-
 ![ss](https://i.imgur.com/2A1b1t7.jpg)
 
 ![ss](https://i.imgur.com/uqK3SN0.jpg)
-
 ![ss](https://i.imgur.com/XZ4Ir9m.jpg)
